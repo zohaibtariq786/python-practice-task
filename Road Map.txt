@@ -1,31 +1,28 @@
-Basic Git
-
+# Basic Git Commands
 git add .
 git commit -m "Update"
 git push origin
 
-Run Python File (python filename)
+# Run Python File
+python filename
 
-code . (Foe open file in VSC)
-
+# Open File in VS Code
+code .
 
 # Road Map
 
-Step: 01 (Basic)
+Step 01: Basic Python Concepts
+------------------------------
+- Variables & Types  
+- Arrays  
+- Conditions  
+- Loops (While & For)  
+- Functions  
+- Classes  
+- Decorator Functions  
 
-Variable & Types
-Array
-Condition
-Loop (While & For)
-Function
-Classes
-Decurator Function
-
-
-Step: 02 (Fast Api)
-
-Setup Fast Api
-Setup MongoDB
-CRUD Operation
-
-
+Step 02: FastAPI Development
+----------------------------
+- Setup FastAPI  
+- Setup MongoDB  
+- CRUD Operations  
