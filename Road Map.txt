@@ -1,0 +1,31 @@
+Basic Git
+
+git add .
+git commit -m "Update"
+git push origin
+
+Run Python File (python filename)
+
+code . (Foe open file in VSC)
+
+
+# Road Map
+
+Step: 01 (Basic)
+
+Variable & Types
+Array
+Condition
+Loop (While & For)
+Function
+Classes
+Decurator Function
+
+
+Step: 02 (Fast Api)
+
+Setup Fast Api
+Setup MongoDB
+CRUD Operation
+
+
